@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a passionate **Data Analyst** with hands-on experience
 
 ## 🏆 Favorite Projects & Interests
 - Hospitality Industry analytics & solutions
+- Ecommerce Industry analystics & key insights
 - Building dashboards for business intelligence
 
 ## 🌐 Connect with Me
