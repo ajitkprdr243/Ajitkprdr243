@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate **Data Analyst** with hands-on experience in turning data into meaningful insights for business improvement.
 
 ## 👨‍💻 About Me
-- **Role:** Data Analyst
+- **Role:** Data Analyst, Reporting Analyst, Work Force Management
 - **Skills:**  
   - **Excel** – Advanced data manipulation & visualization
   - **Power BI** – Interactive dashboards and business reporting
